@@ -8,3 +8,5 @@ Este es un proyecto de una calculadora simple implementada en Python utilizando 
 - Permite realizar operaciones de suma, resta, multiplicación y división.
 - Muestra el resultado de cada operación en un cuadro de diálogo.
 - Permite visualizar el historial de operaciones realizadas.
+
+## Creado por Cristhian Correa
